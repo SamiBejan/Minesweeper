@@ -1,0 +1,53 @@
+table {
+    position: relative;
+    margin-left: 40%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    background-color: rgb(179, 178, 178);
+}
+
+td {
+    border: 1px solid rgb(36, 34, 34);
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+    width: 45px;
+    height: 45px;
+    max-width: 45px;
+    max-height: 45px;
+    text-align: center;
+    color: blue;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+td.clicked, button.button:active {
+    background-color: gray;
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+img.bomb {
+    width: 50%;
+    height: 50%;
+
+}
+
+img.flag {
+    width: 75%;
+    height: 75%;
+}
+
+button.button {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    left: 50.5%;
+    padding-top: 0.25%;
+    background-color: rgb(179, 178, 178);
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(80, 80, 80, 0.6);
+}
