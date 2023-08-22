@@ -4,3 +4,5 @@ The game features a grid of clickable cells, with hidden "mines" scattered throu
 The objective is to clear the board without detonating any mines, with help from clues about the number of neighboring mines in each cell.
 You can find an in-depth explanation on how I created the project in the video from this link: 
 https://drive.google.com/file/d/1CI1W50poD9JV9PLHyus4qZdracAzLQlg/view?usp=share_link
+In the next video, you will see a short presentation of the game: 
+https://drive.google.com/file/d/1wanl10-KHJHY_CT-j0wMmWyiULoH3svc/view?usp=drive_link
